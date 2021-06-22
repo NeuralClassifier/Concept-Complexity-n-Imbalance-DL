@@ -1,8 +1,8 @@
-#Colin's Images: C1
+#Colin's Images: Complexity 1
 
 #Class A
 
-#Creating the Dataset
+#Training Data
 
 c=5
 num_intervals = 2**c
