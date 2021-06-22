@@ -72,6 +72,7 @@ while gen_count < total_images:
   gen_count +=1
 
 
+  
 #Class B
 c=5
 num_intervals = 2**c
@@ -141,6 +142,7 @@ while gen_count < total_images:
   gen_count +=1
 
 
+  
 #Class C
 c=5
 num_intervals = 2**c
