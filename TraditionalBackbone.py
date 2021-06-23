@@ -19,6 +19,7 @@ while s <= 5:
       cnt = 0
       print('Size: ',s,' Complexity: ',c,' Imbalance: ',i)
       while gap_init < 1:
+        
         if cls == '+':
           examples = 0
           print('1 class: ',ceil(((5000/32)*2**s)/2**c))
