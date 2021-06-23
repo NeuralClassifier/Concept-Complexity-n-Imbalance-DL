@@ -9,6 +9,7 @@ def get_truncated_normal(mean=0, sd=1, low=0, upp=10):
 i=1
 while i <= 5:
   print('We are at i = ', i)
+  
   if i==1:
     
     #V1
