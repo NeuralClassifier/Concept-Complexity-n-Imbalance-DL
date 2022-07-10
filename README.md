@@ -51,6 +51,6 @@ The program requires the following Python libraries:
 
 * Kushankur Ghosh, Dept. of Computing Science, University of Alberta, [kushanku@ualberta.ca](mailto:kushanku@ualberta.ca)
 * Colin Bellinger, Digital Technologies, National Research Council of Canada, [colin.bellinger@nrc-cnrc.gc.ca](mailto:colin.bellinger@nrc-cnrc.gc.ca)
-* Roberto Corizzo, Dept. of Computer Science, American University [rcorizzo@american.edu](mailto:rcorizzo@american.edu)
-* Bartosz Krawczyk, Dept. of Computer Science, University of Alberta [bkrawczyk@vcu.edu](mailto:bkrawczyk@vcu.edu)
-* Nathalie Japkowicz, Dept. of Computer Science, American University [japkowic@american.edu](mailto:japkowic@american.edu)
+* Roberto Corizzo, Dept. of Computer Science, American University, [rcorizzo@american.edu](mailto:rcorizzo@american.edu)
+* Bartosz Krawczyk, Dept. of Computer Science, University of Alberta, [bkrawczyk@vcu.edu](mailto:bkrawczyk@vcu.edu)
+* Nathalie Japkowicz, Dept. of Computer Science, American University, [japkowic@american.edu](mailto:japkowic@american.edu)
